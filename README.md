@@ -1,5 +1,9 @@
 # AI Construction Performance, Delay & Cost Prediction System
 
+<p align="center">
+  <img src="AI%20Construction%20Performance%20Analytics.png" alt="AI Construction Performance Analytics" width="800">
+</p>
+
 ## Overview
 
 An AI and analytics platform for monitoring residential construction projects, predicting schedule delays and future costs, assessing project risk, analyzing resources, and visualizing project performance geographically.
